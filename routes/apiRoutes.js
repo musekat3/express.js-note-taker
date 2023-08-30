@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs')
 
-var uniqueId = require('uniqueID'); 
+var uniqueId = require('uniqueId'); 
 
 module.exports = (app)
 
@@ -18,7 +18,7 @@ module.exports = (app)
         title: req.body.title,
         text: req.body.text,
         
-        id: uniqueId(),
+        id: uniqueId()
       };
      
       db.push(userNote);
