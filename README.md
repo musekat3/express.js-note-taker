@@ -31,3 +31,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 # Installation 
+
+# Screenshots
+![Note Taker Express js ](https://github.com/musekat3/express.js-note-taker/assets/131501260/6b566380-7491-4d95-90fe-c3354c0cc08b)
+![Note Taker Express js 2](https://github.com/musekat3/express.js-note-taker/assets/131501260/268ad9d0-e992-4e48-8306-39590fac67e8)
