@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "i": "^0.3.7"
-  }
+  },
+  "name": "express.js-note-taker",
+  "description": "Note Taking App that uses Express.js on the backend that allows users to take notes and retreive them with JSON files.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
